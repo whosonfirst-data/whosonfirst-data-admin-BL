@@ -1,0 +1,84 @@
+{
+  "id": 421190411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.78333,17.9,-62.78333,17.9",
+    "geom:latitude":17.9,
+    "geom:longitude":-62.78333,
+    "iso:country":"BL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Petit Cul-de-Sac"
+    ],
+    "name:eng_x_preferred":[
+        "Petit Cul-de-Sac"
+    ],
+    "name:fre_x_preferred":[
+        "Petit Cul-de-Sac"
+    ],
+    "name:oci_x_preferred":[
+        "Petit Cul-de-Sac"
+    ],
+    "qs:gn_country":"BL",
+    "qs:gn_fcode":"PPLL",
+    "qs:gn_id":3578678,
+    "qs:gn_pop":0,
+    "qs:name":"Petit Cul de Sac",
+    "qs:name_adm0":"Saint-Barth\u00e9lemy",
+    "qs:name_adm1":null,
+    "qs:photos":25,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":25,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":53496,
+    "qs:woe_adm0":56042304,
+    "qs:woe_id":80804,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":24,
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578678,
+        "gp:id":80804,
+        "qs:id":53496,
+        "wd:id":"Q7178357"
+    },
+    "wof:country":"BL",
+    "wof:created":1459009657,
+    "wof:geomhash":"016da4c41c2c263a358adb8d1c55c58f",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":421190411,
+            "region_id":-1
+        }
+    ],
+    "wof:id":421190411,
+    "wof:lastmodified":1527716395,
+    "wof:name":"Petit Cul de Sac",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.78333,
+    17.9,
+    -62.78333,
+    17.9
+],
+  "geometry": {"coordinates":[-62.78333,17.9],"type":"Point"}
+}

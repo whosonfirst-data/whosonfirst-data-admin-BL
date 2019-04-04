@@ -1,0 +1,145 @@
+{
+  "id": 85669283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.002082,
+    "geom:area_square_m":24502232.434156,
+    "geom:bbox":"-62.8673396478,17.8819847685,-62.7916560535,17.9291445978",
+    "geom:latitude":17.905585,
+    "geom:longitude":-62.83262,
+    "gn:id":"",
+    "iso:country":"BL",
+    "lbl:latitude":17.901987,
+    "lbl:longitude":-62.833193,
+    "mps:latitude":17.901987,
+    "mps:longitude":-62.833193,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:eng_x_preferred":[
+        "Saint Barthelemy"
+    ],
+    "name:eng_x_variant":[
+        "St. Barths",
+        "St. Barts",
+        "Saint Barth\u00e9lemy"
+    ],
+    "name:fra_x_preferred":[
+        "Saint-Barth\u00e9lemy"
+    ],
+    "name:fra_x_unknown":[
+        "BL",
+        "BLM"
+    ],
+    "name:fra_x_variant":[
+        "Saint-Barth",
+        "Saint-Barth\u00e9l\u00e9my",
+        "St. Barthelemy"
+    ],
+    "name:ger_x_variant":[
+        "Sankt Bartholom\u00e4us"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc\u5cf6"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0dd\ubc14\ub974\ud154\ub808\ubbf8"
+    ],
+    "name:por_x_preferred":[
+        "S\u00e3o Bartolomeu"
+    ],
+    "name:rum_x_preferred":[
+        "Saint Barth\u00e9lemy"
+    ],
+    "name:spa_x_preferred":[
+        "San Bartolom\u00e9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5723\u5df4\u6cf0\u52d2\u7c73"
+    ],
+    "qs:a0":"Saint Barthelemy",
+    "qs:a0_lc":"BL",
+    "qs:a1":"Saint Barth\u00e9lemy",
+    "qs:a1_lc":"BLM-5113",
+    "qs:adm0":"Saint Barthelemy",
+    "qs:adm0_a3":"BLM",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-01-01",
+    "statoids:area_km":"21",
+    "statoids:area_mi":"8",
+    "statoids:as_of_date":"2010-01-01",
+    "statoids:capital":"Gustavia",
+    "statoids:country":"BL",
+    "statoids:gec":"",
+    "statoids:hasc":"BL.SB",
+    "statoids:iso":"",
+    "statoids:name":"Saint Barth\u00e9lemy",
+    "statoids:population":"9072",
+    "statoids:timezone":"-4",
+    "statoids:type":"overseas collectivity of FR",
+    "wd:wordcount":6500,
+    "wof:belongsto":[
+        102191575,
+        85632199,
+        136253037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56042304,
+        "hasc:id":"BL.SB",
+        "qs:id":482973,
+        "wd:id":"Q25362"
+    },
+    "wof:country":"BL",
+    "wof:geomhash":"9661ec629f73ffa88401a345894cb520",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632199,
+            "empire_id":136253037,
+            "region_id":85669283
+        }
+    ],
+    "wof:id":85669283,
+    "wof:lang":[
+        "fre"
+    ],
+    "wof:lang_x_official":[
+        "fra"
+    ],
+    "wof:lang_x_spoken":[
+        "fra"
+    ],
+    "wof:lastmodified":1536616391,
+    "wof:name":"Saint Barth\u00e9lemy",
+    "wof:parent_id":85632199,
+    "wof:placetype":"region",
+    "wof:placetype_local":"overseas collectivity of FR",
+    "wof:population":9072,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bl",
+    "wof:superseded_by":[
+        85632199
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.86733964780649,
+    17.88198476848231,
+    -62.79165605348402,
+    17.92914459784498
+],
+  "geometry": {"coordinates":[[[-62.83885657447132,17.88198476848231],[-62.85094153552342,17.89044830894238],[-62.86131751219341,17.90542226832309],[-62.86733964780649,17.92039622590517],[-62.86611894403399,17.92914459784498],[-62.85741126192016,17.92503489844188],[-62.79165605348402,17.91547272368729],[-62.79893958179622,17.90448639513107],[-62.81012936128099,17.89227936460105],[-62.82384192616394,17.88324616118143],[-62.83885657447132,17.88198476848231]]],"type":"Polygon"}
+}

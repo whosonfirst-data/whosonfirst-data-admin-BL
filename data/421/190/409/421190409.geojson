@@ -1,0 +1,91 @@
+{
+  "id": 421190409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.83333,17.88333,-62.83333,17.88333",
+    "geom:latitude":17.88333,
+    "geom:longitude":-62.83333,
+    "iso:country":"BL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:dut_x_preferred":[
+        "Lurin"
+    ],
+    "name:eng_x_preferred":[
+        "Lurin"
+    ],
+    "name:fre_x_preferred":[
+        "Lurin"
+    ],
+    "name:oci_x_preferred":[
+        "Lurin"
+    ],
+    "qs:gn_country":"BL",
+    "qs:gn_fcode":"PPLL",
+    "qs:gn_id":3578903,
+    "qs:gn_pop":0,
+    "qs:name":"Lurin",
+    "qs:name_adm0":"Saint-Barth\u00e9lemy",
+    "qs:name_adm1":null,
+    "qs:photos":7,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":7,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":53495,
+    "qs:woe_adm0":56042304,
+    "qs:woe_id":80749,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":33,
+    "wof:belongsto":[
+        102191575,
+        85632199,
+        85633147,
+        85669283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3578903,
+        "gp:id":80749,
+        "qs:id":53495,
+        "wd:id":"Q6704941",
+        "wk:page":"Lurin"
+    },
+    "wof:country":"BL",
+    "wof:created":1459009657,
+    "wof:geomhash":"bd6b6d17293ab2cd4f30fd266a497004",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633147,
+            "dependency_id":85632199,
+            "locality_id":421190409,
+            "region_id":85669283
+        }
+    ],
+    "wof:id":421190409,
+    "wof:lastmodified":1527716392,
+    "wof:name":"Lurin",
+    "wof:parent_id":85669283,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.83333,
+    17.88333,
+    -62.83333,
+    17.88333
+],
+  "geometry": {"coordinates":[-62.83333,17.88333],"type":"Point"}
+}

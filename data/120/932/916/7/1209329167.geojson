@@ -1,0 +1,62 @@
+{
+  "id": 1209329167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-62.80427,17.90962,-62.80427,17.90962",
+    "geom:latitude":17.90962,
+    "geom:longitude":-62.80427,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Grand Cul-de-Sac",
+    "gn:country_code":"BL",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579243,
+    "gn:latitude":17.90962,
+    "gn:longitude":-62.80427,
+    "gn:modification_date":"2011-03-16",
+    "gn:name":"Grand Cul-de-Sac",
+    "gn:population":0,
+    "gn:timezone":"America/St_Barthelemy",
+    "iso:country":"BL",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632199
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579243,
+        "wk:page":"Grand_Cul-de-Sac"
+    },
+    "wof:country":"BL",
+    "wof:geomhash":"7efdeb1ec9e8576a878305ff1e51f36e",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632199,
+            "locality_id":1209329167
+        }
+    ],
+    "wof:id":1209329167,
+    "wof:lastmodified":1537487852,
+    "wof:name":"Grand Cul-de-Sac",
+    "wof:parent_id":85632199,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bl",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -62.80427,
+    17.90962,
+    -62.80427,
+    17.90962
+],
+  "geometry": {"coordinates":[-62.80427,17.90962],"type":"Point"}
+}
