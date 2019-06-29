@@ -13,13 +13,13 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:note":"quattroshapes points import (201603)",
-    "name:dut_x_preferred":[
-        "Lurin"
-    ],
     "name:eng_x_preferred":[
         "Lurin"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
+        "Lurin"
+    ],
+    "name:nld_x_preferred":[
         "Lurin"
     ],
     "name:oci_x_preferred":[
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":421190409,
-    "wof:lastmodified":1527716392,
+    "wof:lastmodified":1561839899,
     "wof:name":"Lurin",
     "wof:parent_id":85669283,
     "wof:placetype":"locality",
