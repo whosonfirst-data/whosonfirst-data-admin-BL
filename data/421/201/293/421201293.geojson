@@ -16,9 +16,6 @@
     "name:afr_x_preferred":[
         "Gustavia"
     ],
-    "name:alb_x_preferred":[
-        "Gustavia"
-    ],
     "name:arg_x_preferred":[
         "Gustavia"
     ],
@@ -29,9 +26,6 @@
         "Qustaviya"
     ],
     "name:bam_x_preferred":[
-        "Gustavia"
-    ],
-    "name:baq_x_preferred":[
         "Gustavia"
     ],
     "name:bar_x_preferred":[
@@ -61,22 +55,16 @@
     "name:ces_x_preferred":[
         "Gustavia"
     ],
-    "name:chi_x_preferred":[
-        "\u53e4\u65af\u5854\u7ef4\u4e9a"
-    ],
     "name:cos_x_preferred":[
         "Gustavia"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Gustavia"
     ],
     "name:dan_x_preferred":[
         "Gustavia"
     ],
     "name:deu_x_preferred":[
-        "Gustavia"
-    ],
-    "name:dut_x_preferred":[
         "Gustavia"
     ],
     "name:ell_x_preferred":[
@@ -91,31 +79,31 @@
     "name:est_x_preferred":[
         "Gustavia"
     ],
+    "name:eus_x_preferred":[
+        "Gustavia"
+    ],
     "name:fao_x_preferred":[
         "Gustavia"
     ],
     "name:fas_x_preferred":[
         "\u06af\u0648\u0633\u062a\u0627\u0648\u06cc\u0627"
     ],
+    "name:fas_x_variant":[
+        "\u06af\u0627\u0633\u062a\u0627\u0648\u06cc\u0627"
+    ],
     "name:fin_x_preferred":[
         "Gustavia"
     ],
-    "name:frc_x_preferred":[
+    "name:fra_x_preferred":[
         "Gustavia"
     ],
-    "name:fre_x_preferred":[
+    "name:frc_x_preferred":[
         "Gustavia"
     ],
     "name:frp_x_preferred":[
         "Gustavia"
     ],
     "name:fur_x_preferred":[
-        "Gustavia"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d2\u10e3\u10e1\u10e2\u10d0\u10d5\u10d8\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Gustavia"
     ],
     "name:gla_x_preferred":[
@@ -126,9 +114,6 @@
     ],
     "name:glg_x_preferred":[
         "Gustavia"
-    ],
-    "name:gre_x_preferred":[
-        "\u0393\u03bf\u03c5\u03c3\u03c4\u03b1\u03b2\u03af\u03b1"
     ],
     "name:gsw_x_preferred":[
         "Gustavia"
@@ -145,9 +130,6 @@
     "name:hun_x_preferred":[
         "Gustavia"
     ],
-    "name:ice_x_preferred":[
-        "Gustavia"
-    ],
     "name:ido_x_preferred":[
         "Gustavia"
     ],
@@ -158,6 +140,9 @@
         "Gustavia"
     ],
     "name:ind_x_preferred":[
+        "Gustavia"
+    ],
+    "name:isl_x_preferred":[
         "Gustavia"
     ],
     "name:ita_x_preferred":[
@@ -205,17 +190,14 @@
     "name:ltz_x_preferred":[
         "Gustavia"
     ],
-    "name:mac_x_preferred":[
-        "\u0413\u0443\u0441\u0442\u0430\u0432\u0438\u0458\u0430"
-    ],
     "name:mar_x_preferred":[
         "\u0917\u0941\u0938\u094d\u0924\u093e\u0935\u094d\u0939\u093f\u092f\u093e"
     ],
-    "name:may_x_preferred":[
-        "Gustavia"
-    ],
     "name:min_x_preferred":[
         "Gustavia"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0413\u0443\u0441\u0442\u0430\u0432\u0438\u0458\u0430"
     ],
     "name:mlg_x_preferred":[
         "Gustavia"
@@ -223,10 +205,16 @@
     "name:mon_x_preferred":[
         "\u0413\u0443\u0441\u0442\u0430\u0432\u0438\u0430"
     ],
+    "name:msa_x_preferred":[
+        "Gustavia"
+    ],
     "name:nap_x_preferred":[
         "Gustavia"
     ],
     "name:nds_x_preferred":[
+        "Gustavia"
+    ],
+    "name:nld_x_preferred":[
         "Gustavia"
     ],
     "name:nno_x_preferred":[
@@ -250,9 +238,6 @@
     "name:pcd_x_preferred":[
         "Gustavia"
     ],
-    "name:per_x_preferred":[
-        "\u06af\u0627\u0633\u062a\u0627\u0648\u06cc\u0627"
-    ],
     "name:pms_x_preferred":[
         "Gustavia"
     ],
@@ -271,7 +256,7 @@
     "name:roh_x_preferred":[
         "Gustavia"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Gustavia"
     ],
     "name:rus_x_preferred":[
@@ -286,13 +271,16 @@
     "name:sin_x_preferred":[
         "\u0d9c\u0dc3\u0dca\u0da7\u0dcf\u0dc0\u0dd2\u0dba\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Gustavia"
     ],
     "name:slv_x_preferred":[
         "Gustavia"
     ],
     "name:spa_x_preferred":[
+        "Gustavia"
+    ],
+    "name:sqi_x_preferred":[
         "Gustavia"
     ],
     "name:srd_x_preferred":[
@@ -355,9 +343,6 @@
     "name:war_x_preferred":[
         "Gustavia"
     ],
-    "name:wel_x_preferred":[
-        "Gustavia"
-    ],
     "name:wln_x_preferred":[
         "Gustavia"
     ],
@@ -369,6 +354,9 @@
     ],
     "name:zho_x_preferred":[
         "\u5c45\u65af\u5854\u7ef4\u4e9a"
+    ],
+    "name:zho_x_variant":[
+        "\u53e4\u65af\u5854\u7ef4\u4e9a"
     ],
     "name:zul_x_preferred":[
         "Gustavia"
@@ -422,7 +410,7 @@
         }
     ],
     "wof:id":421201293,
-    "wof:lastmodified":1527716434,
+    "wof:lastmodified":1561839899,
     "wof:name":"Gustavia",
     "wof:parent_id":85669283,
     "wof:placetype":"locality",
