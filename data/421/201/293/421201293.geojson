@@ -208,6 +208,12 @@
     "name:msa_x_preferred":[
         "Gustavia"
     ],
+    "name:myv_x_preferred":[
+        "\u0413\u0443\u0441\u0442\u0430\u0432\u0438\u044f"
+    ],
+    "name:nan_x_preferred":[
+        "Gustavia"
+    ],
     "name:nap_x_preferred":[
         "Gustavia"
     ],
@@ -410,7 +416,7 @@
         }
     ],
     "wof:id":421201293,
-    "wof:lastmodified":1561839899,
+    "wof:lastmodified":1563365530,
     "wof:name":"Gustavia",
     "wof:parent_id":85669283,
     "wof:placetype":"locality",
