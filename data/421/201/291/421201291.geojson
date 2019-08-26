@@ -10,8 +10,12 @@
     "geom:latitude":17.91667,
     "geom:longitude":-62.81667,
     "iso:country":"BL",
+    "lbl:bbox":"-62.83667,17.89667,-62.79667,17.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Marigot"
@@ -202,7 +206,7 @@
     "name:tur_x_preferred":[
         "Marigot"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Quartier du Marigot"
     ],
     "name:vec_x_preferred":[
@@ -259,9 +263,11 @@
     "wof:concordances":{
         "gn:id":3578852,
         "gp:id":80766,
-        "qs:id":211066,
         "qs_pg:id":31145,
         "wd:id":"Q352728"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":211066
     },
     "wof:country":"BL",
     "wof:created":1459010068,
@@ -277,7 +283,7 @@
         }
     ],
     "wof:id":421201291,
-    "wof:lastmodified":1563365530,
+    "wof:lastmodified":1566615559,
     "wof:name":"Marigot",
     "wof:parent_id":85669283,
     "wof:placetype":"locality",
