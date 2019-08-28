@@ -10,8 +10,12 @@
     "geom:latitude":17.9,
     "geom:longitude":-62.78333,
     "iso:country":"BL",
+    "lbl:bbox":"-62.80333,17.88,-62.76333,17.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:eng_x_preferred":[
         "Petit Cul-de-Sac"
@@ -53,7 +57,7 @@
     "wof:concordances":{
         "gn:id":3578678,
         "gp:id":80804,
-        "qs:id":53496,
+        "qs_pg:id":53496,
         "wd:id":"Q7178357"
     },
     "wof:country":"BL",
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":421190411,
-    "wof:lastmodified":1563365529,
+    "wof:lastmodified":1566615559,
     "wof:name":"Petit Cul de Sac",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

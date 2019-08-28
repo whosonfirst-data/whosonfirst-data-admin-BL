@@ -10,8 +10,12 @@
     "geom:latitude":17.89618,
     "geom:longitude":-62.84978,
     "iso:country":"BL",
+    "lbl:bbox":"-62.86978,17.87618,-62.82978,17.91618",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:afr_x_preferred":[
         "Gustavia"
@@ -322,7 +326,7 @@
     "name:ukr_x_preferred":[
         "\u0413\u0443\u0441\u0442\u0430\u0432\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Gustaf"
     ],
     "name:urd_x_preferred":[
@@ -398,7 +402,7 @@
     "wof:concordances":{
         "gn:id":3579132,
         "gp:id":80675,
-        "qs:id":211068,
+        "qs_pg:id":211068,
         "wd:id":"Q34112",
         "wk:page":"Gustavia, Saint Barth\u00e9lemy"
     },
@@ -416,7 +420,7 @@
         }
     ],
     "wof:id":421201293,
-    "wof:lastmodified":1563365530,
+    "wof:lastmodified":1566615559,
     "wof:name":"Gustavia",
     "wof:parent_id":85669283,
     "wof:placetype":"locality",
