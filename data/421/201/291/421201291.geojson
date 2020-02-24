@@ -271,6 +271,9 @@
     },
     "wof:country":"BL",
     "wof:created":1459010068,
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"de9a8fdd08300ee9422e7767900d69c3",
     "wof:hierarchy":[
         {
@@ -283,7 +286,7 @@
         }
     ],
     "wof:id":421201291,
-    "wof:lastmodified":1566615559,
+    "wof:lastmodified":1582347048,
     "wof:name":"Marigot",
     "wof:parent_id":85669283,
     "wof:placetype":"locality",
